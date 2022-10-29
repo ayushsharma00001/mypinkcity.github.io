@@ -50,7 +50,6 @@ ul li a{
     text-decoration: none;
     padding: 45px;
     font-size: 24px;
-    color: aqua;
 }
 ul li:hover{
     background-color: red;
