@@ -50,12 +50,11 @@ ul li a{
     text-decoration: none;
     padding: 45px;
     font-size: 24px;
-    color: purple;
+    color: black;
 }
 ul li:hover{
-    background-color: red;
-    border: 2px solid black;
-    color: white;
+    background-color: purple;
+    border: 2px solid purple;
     border-radius: 8px;
 }
 
