@@ -1,0 +1,66 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navigation{
+    width: 102%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 151px;
+}
+#logo img{
+    position: absolute;
+    top: -12%;
+    left: 33%;
+}
+ul li a{
+    padding: 11px;
+    font-size: 21px;
+    font-size: 1.1rem;
+}
+.h-primary1{
+    font-size: 4rem;
+}
+#pbg::before{
+    width: 117%;
+}
+.history{
+    margin: 128px;
+    width: 106%;
+}
+#h-primary2{
+    font-size: 2rem;
+    display: block;
+    margin: 12px;
+}
+#h-primary3{
+    font-size: 2rem;
+}
+#h-primary4{
+    font-size: 2rem;
+    margin: 85px 151px;
+}
+.tourist{
+    width: 335px;
+   
+}
+
+
+
+#tourist-place{
+    margin: 4px;
+}
+div .place img{
+    height: 90px;
+}
+.about{
+    margin: -28px -98px;
+    font-size: 1rem;
+}
+.cabout::before{
+    height: 148%;
+    top: 1950px;
+    width: 135%;
+}
